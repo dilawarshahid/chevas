@@ -21,6 +21,15 @@
     letter-spacing: 1px;
     margin-bottom: 7px;
 }
+.spline{
+  margin: 0px;
+  padding: 0px;
+  height: 90vh;
+  width: 260vh;
+}
+.few{
+  align-items: center;
+}
 
 .common-h2 {
     color: #3b3663;
